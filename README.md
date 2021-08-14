@@ -1,3 +1,21 @@
+<h1>project Installation Steps</h1>
+<p>1. Clone the project <br>
+2. Copy the .env.example file to .env
+3. composer install <br>
+4. php artisan key:generate <br>
+5. set the database name in .env file <br>
+6. php artisan migrate --seed <br>
+7. Admin login details <br>
+email : admin@admin.com <br>
+password : admin@123 </p> <br>
+<br>
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
