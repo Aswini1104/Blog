@@ -17,6 +17,7 @@ class CreateBlogPostsTable extends Migration
             $table->id();
             $table->string('discription')->nullable();
             $table->string('status')->nullable();
+            $table->string('photo')->nullable();
             $table->unsignedBigInteger('category_id')->nullable();
             $table->unsignedBigInteger('created_by')->nullable();
             $table->unsignedBigInteger('updated_by')->nullable();

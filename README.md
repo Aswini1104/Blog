@@ -1,6 +1,6 @@
 <h1>project Installation Steps</h1>
 <p>1. Clone the project <br>
-2. Copy the .env.example file to .env
+2. Copy the .env.example file to .env <br>
 3. composer install <br>
 4. php artisan key:generate <br>
 5. set the database name in .env file <br>
